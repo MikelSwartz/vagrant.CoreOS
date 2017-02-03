@@ -1,4 +1,4 @@
-# Vagrant Continious Integration with GitLab
+# Vagrant Docker orchestration with Kubernetes
 Vagrant hosts to prototype and experiment with kubernetes
 
 Host Version Contents
