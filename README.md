@@ -8,6 +8,8 @@ CoreOS
 Comments
 ========
 Using this environment to experiment with CoreOS and Pluralsight's 'Getting Started with CoreOS'  
+Not sure where he is getting his DNS resolution nor his user-data.  
+curl -w "\n" 'https://discovery.etcd.io/new?' at the CoreOS command-line to get the discovery token.  
 
 Reference URL
 ========
